@@ -24,18 +24,18 @@ Busco uma oportunidade como **QA Júnior**, onde eu possa aplicar minhas habilid
 
 ## 🧪 Tipos de Testes Realizados
 
-### ✅ [Testes Manuais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git/testes-manuais)
+### ✅ [Testes Manuais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git)
 - Casos de teste documentados com passos, critérios e resultados esperados.
 - Relatórios de execução.
 
-### 🧭 [Testes Exploratórios](https://github.com/seu-usuario/testes-exploratorios)
+### 🧭 [Testes Exploratórios](https://github.com/seu-usuario)
 - Sessões documentadas com observações, hipóteses e falhas encontradas.
 - Baseado em heurísticas e raciocínio crítico.
 
-### 🎯 [Testes de Usabilidade](github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git/testes-usabilidade)
+### 🎯 [Testes de Usabilidade](github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git)
 - Relatórios com sugestões de melhorias baseadas na experiência do usuário.
 
-### ⚙️ [Testes Automatizados](https://github.com/Daiane567/e2e-tests-shopping-cart.git/testes-automatizados-cypress)
+### ⚙️ [Testes Automatizados](https://github.com/Daiane567/e2e-tests-shopping-cart.git)
 - Automação com Cypress focando em fluxo de usuário, API e integração.
 - Uso de Page Objects, comandos customizados e boas práticas.
 
