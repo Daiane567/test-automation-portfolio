@@ -28,7 +28,7 @@ Busco uma oportunidade como **QA Júnior**, onde eu possa aplicar minhas habilid
 - Casos de teste documentados com passos, critérios e resultados esperados.
 - Relatórios de execução.
 
-### 🎯 [Testes de Usabilidade](github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git)
+### 🎯 [Testes de Usabilidade](https://github.com/Daiane567/login-client.git)
 - Relatórios com sugestões de melhorias baseadas na experiência do usuário.
 
 ### ⚙️ [Testes Automatizados](https://github.com/Daiane567/e2e-tests-shopping-cart.git)
