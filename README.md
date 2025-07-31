@@ -28,10 +28,6 @@ Busco uma oportunidade como **QA Júnior**, onde eu possa aplicar minhas habilid
 - Casos de teste documentados com passos, critérios e resultados esperados.
 - Relatórios de execução.
 
-### 🧭 [Testes Exploratórios](https://github.com/seu-usuario)
-- Sessões documentadas com observações, hipóteses e falhas encontradas.
-- Baseado em heurísticas e raciocínio crítico.
-
 ### 🎯 [Testes de Usabilidade](github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel.git)
 - Relatórios com sugestões de melhorias baseadas na experiência do usuário.
 
