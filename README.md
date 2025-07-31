@@ -48,7 +48,7 @@ Busco uma oportunidade como **QA Júnior**, onde eu possa aplicar minhas habilid
 |--------------|--------------------------------------|
 | Cypress      | Testes automatizados (UI/API)        |
 | Postman      | Testes de API                        |
-| trello         | Simulação de gerenciamento ágil      |
+| jira        | Simulação de gerenciamento ágil      |
 | TestRail     | Organização de casos de teste        |
 | Notion       | Documentação de sessões de testes    |
 | Excel/Sheets | Planilhas de testes manuais          |
