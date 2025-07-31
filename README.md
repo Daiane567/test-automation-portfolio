@@ -35,7 +35,7 @@ Busco uma oportunidade como **QA Júnior**, onde eu possa aplicar minhas habilid
 - Automação com Cypress focando em fluxo de usuário, API e integração.
 - Uso de Page Objects, comandos customizados e boas práticas.
 
-### 🌐 [Testes de API](https://github.com/seu-usuario/testes-api)
+### 🌐 [Testes de API](https://github.com/Daiane567/login-api.git)
 - Collections Postman com testes, variáveis e scripts.
 - Cypress com `cy.request()` para validar respostas REST.
 
